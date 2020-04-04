@@ -39,7 +39,7 @@ class App extends Component {
     //     count: prevState.count + 1
     //   };
     // });
-    rows[1].Email = "newemail@new";
+    rows[1].Email = "TE AMO HERMOSOTA";
     await rows[1].save();
     this.setState({ data: rows });
 
