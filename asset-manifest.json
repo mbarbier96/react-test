@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-test/static/css/main.78839120.chunk.css",
+    "main.css": "/react-test/static/css/main.856a70c9.chunk.css",
     "main.js": "/react-test/static/js/main.149f738e.chunk.js",
     "main.js.map": "/react-test/static/js/main.149f738e.chunk.js.map",
     "runtime-main.js": "/react-test/static/js/runtime-main.011e1daf.js",
@@ -9,10 +9,10 @@
     "static/js/2.e276eca7.chunk.js": "/react-test/static/js/2.e276eca7.chunk.js",
     "static/js/2.e276eca7.chunk.js.map": "/react-test/static/js/2.e276eca7.chunk.js.map",
     "index.html": "/react-test/index.html",
-    "precache-manifest.89f81927b9c7945c7c2a3598e2f91ec0.js": "/react-test/precache-manifest.89f81927b9c7945c7c2a3598e2f91ec0.js",
+    "precache-manifest.684a955d8e905972d852133a3563c4d2.js": "/react-test/precache-manifest.684a955d8e905972d852133a3563c4d2.js",
     "service-worker.js": "/react-test/service-worker.js",
     "static/css/2.72345ca2.chunk.css.map": "/react-test/static/css/2.72345ca2.chunk.css.map",
-    "static/css/main.78839120.chunk.css.map": "/react-test/static/css/main.78839120.chunk.css.map",
+    "static/css/main.856a70c9.chunk.css.map": "/react-test/static/css/main.856a70c9.chunk.css.map",
     "static/js/2.e276eca7.chunk.js.LICENSE.txt": "/react-test/static/js/2.e276eca7.chunk.js.LICENSE.txt",
     "static/media/ChurchCartoon.jpg": "/react-test/static/media/ChurchCartoon.0d252093.jpg",
     "static/media/LogoTest.png": "/react-test/static/media/LogoTest.097b7749.png",
@@ -23,7 +23,7 @@
     "static/js/runtime-main.011e1daf.js",
     "static/css/2.72345ca2.chunk.css",
     "static/js/2.e276eca7.chunk.js",
-    "static/css/main.78839120.chunk.css",
+    "static/css/main.856a70c9.chunk.css",
     "static/js/main.149f738e.chunk.js"
   ]
 }
