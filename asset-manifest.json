@@ -1,28 +1,29 @@
 {
   "files": {
-    "main.css": "/react-test/static/css/main.abf67293.chunk.css",
-    "main.js": "/react-test/static/js/main.8417c6f4.chunk.js",
-    "main.js.map": "/react-test/static/js/main.8417c6f4.chunk.js.map",
+    "main.css": "/react-test/static/css/main.e95f87e3.chunk.css",
+    "main.js": "/react-test/static/js/main.b7b513a8.chunk.js",
+    "main.js.map": "/react-test/static/js/main.b7b513a8.chunk.js.map",
     "runtime-main.js": "/react-test/static/js/runtime-main.011e1daf.js",
     "runtime-main.js.map": "/react-test/static/js/runtime-main.011e1daf.js.map",
-    "static/css/2.de424728.chunk.css": "/react-test/static/css/2.de424728.chunk.css",
-    "static/js/2.c600dc4a.chunk.js": "/react-test/static/js/2.c600dc4a.chunk.js",
-    "static/js/2.c600dc4a.chunk.js.map": "/react-test/static/js/2.c600dc4a.chunk.js.map",
+    "static/css/2.daaaf6f4.chunk.css": "/react-test/static/css/2.daaaf6f4.chunk.css",
+    "static/js/2.603298b9.chunk.js": "/react-test/static/js/2.603298b9.chunk.js",
+    "static/js/2.603298b9.chunk.js.map": "/react-test/static/js/2.603298b9.chunk.js.map",
     "index.html": "/react-test/index.html",
-    "precache-manifest.fdfc4c37e1f1f5ee6a1a2a3369f993a9.js": "/react-test/precache-manifest.fdfc4c37e1f1f5ee6a1a2a3369f993a9.js",
+    "precache-manifest.1ad77291c1b4a90571bcb6130583ff1d.js": "/react-test/precache-manifest.1ad77291c1b4a90571bcb6130583ff1d.js",
     "service-worker.js": "/react-test/service-worker.js",
-    "static/css/2.de424728.chunk.css.map": "/react-test/static/css/2.de424728.chunk.css.map",
-    "static/css/main.abf67293.chunk.css.map": "/react-test/static/css/main.abf67293.chunk.css.map",
-    "static/js/2.c600dc4a.chunk.js.LICENSE.txt": "/react-test/static/js/2.c600dc4a.chunk.js.LICENSE.txt",
+    "static/css/2.daaaf6f4.chunk.css.map": "/react-test/static/css/2.daaaf6f4.chunk.css.map",
+    "static/css/main.e95f87e3.chunk.css.map": "/react-test/static/css/main.e95f87e3.chunk.css.map",
+    "static/js/2.603298b9.chunk.js.LICENSE.txt": "/react-test/static/js/2.603298b9.chunk.js.LICENSE.txt",
     "static/media/ChurchCartoon.jpg": "/react-test/static/media/ChurchCartoon.0d252093.jpg",
     "static/media/LogoTest.png": "/react-test/static/media/LogoTest.097b7749.png",
-    "static/media/Reception-Test.jpeg": "/react-test/static/media/Reception-Test.c7b32cb8.jpeg"
+    "static/media/Reception-Test.jpeg": "/react-test/static/media/Reception-Test.c7b32cb8.jpeg",
+    "static/media/App.css": "/react-test/static/media/blurry.898ecda2.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.011e1daf.js",
-    "static/css/2.de424728.chunk.css",
-    "static/js/2.c600dc4a.chunk.js",
-    "static/css/main.abf67293.chunk.css",
-    "static/js/main.8417c6f4.chunk.js"
+    "static/css/2.daaaf6f4.chunk.css",
+    "static/js/2.603298b9.chunk.js",
+    "static/css/main.e95f87e3.chunk.css",
+    "static/js/main.b7b513a8.chunk.js"
   ]
 }
