@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "55563a74bf6da70d612a3ba1f05fa5ae",
+    "revision": "b352957e30911a323416314a5d6e021f",
     "url": "/react-test/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-test/static/css/2.72345ca2.chunk.css"
   },
   {
-    "revision": "fcd9f986a5962dd0d8cd",
-    "url": "/react-test/static/css/main.9c5a50ec.chunk.css"
+    "revision": "eb02a4c0357c5a648762",
+    "url": "/react-test/static/css/main.2a76cc1b.chunk.css"
   },
   {
     "revision": "71689701a2c7ac6eb244",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-test/static/js/2.e276eca7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fcd9f986a5962dd0d8cd",
+    "revision": "eb02a4c0357c5a648762",
     "url": "/react-test/static/js/main.149f738e.chunk.js"
   },
   {
@@ -38,9 +38,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c7b32cb828f81969b606b74e2f25e4fd",
     "url": "/react-test/static/media/Reception-Test.c7b32cb8.jpeg"
-  },
-  {
-    "revision": "898ecda2875926ac452d2f1394595905",
-    "url": "/react-test/static/media/blurry.898ecda2.jpg"
   }
 ]);
