@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/react-test/static/css/main.e95f87e3.chunk.css",
-    "main.js": "/react-test/static/js/main.3dcd9ac5.chunk.js",
-    "main.js.map": "/react-test/static/js/main.3dcd9ac5.chunk.js.map",
+    "main.js": "/react-test/static/js/main.da613c5e.chunk.js",
+    "main.js.map": "/react-test/static/js/main.da613c5e.chunk.js.map",
     "runtime-main.js": "/react-test/static/js/runtime-main.011e1daf.js",
     "runtime-main.js.map": "/react-test/static/js/runtime-main.011e1daf.js.map",
-    "static/css/2.c66d2b2e.chunk.css": "/react-test/static/css/2.c66d2b2e.chunk.css",
-    "static/js/2.3808dfce.chunk.js": "/react-test/static/js/2.3808dfce.chunk.js",
-    "static/js/2.3808dfce.chunk.js.map": "/react-test/static/js/2.3808dfce.chunk.js.map",
+    "static/css/2.49367501.chunk.css": "/react-test/static/css/2.49367501.chunk.css",
+    "static/js/2.610976fd.chunk.js": "/react-test/static/js/2.610976fd.chunk.js",
+    "static/js/2.610976fd.chunk.js.map": "/react-test/static/js/2.610976fd.chunk.js.map",
     "index.html": "/react-test/index.html",
-    "precache-manifest.ae725f651cd56e4fdb600b2d035bfc45.js": "/react-test/precache-manifest.ae725f651cd56e4fdb600b2d035bfc45.js",
+    "precache-manifest.6b2af097d5b4c1d6ea858d5136293e1e.js": "/react-test/precache-manifest.6b2af097d5b4c1d6ea858d5136293e1e.js",
     "service-worker.js": "/react-test/service-worker.js",
-    "static/css/2.c66d2b2e.chunk.css.map": "/react-test/static/css/2.c66d2b2e.chunk.css.map",
+    "static/css/2.49367501.chunk.css.map": "/react-test/static/css/2.49367501.chunk.css.map",
     "static/css/main.e95f87e3.chunk.css.map": "/react-test/static/css/main.e95f87e3.chunk.css.map",
-    "static/js/2.3808dfce.chunk.js.LICENSE.txt": "/react-test/static/js/2.3808dfce.chunk.js.LICENSE.txt",
+    "static/js/2.610976fd.chunk.js.LICENSE.txt": "/react-test/static/js/2.610976fd.chunk.js.LICENSE.txt",
     "static/media/ChurchCartoon.jpg": "/react-test/static/media/ChurchCartoon.0d252093.jpg",
     "static/media/LogoTest.png": "/react-test/static/media/LogoTest.097b7749.png",
     "static/media/Reception-Test.jpeg": "/react-test/static/media/Reception-Test.c7b32cb8.jpeg",
@@ -21,9 +21,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.011e1daf.js",
-    "static/css/2.c66d2b2e.chunk.css",
-    "static/js/2.3808dfce.chunk.js",
+    "static/css/2.49367501.chunk.css",
+    "static/js/2.610976fd.chunk.js",
     "static/css/main.e95f87e3.chunk.css",
-    "static/js/main.3dcd9ac5.chunk.js"
+    "static/js/main.da613c5e.chunk.js"
   ]
 }
