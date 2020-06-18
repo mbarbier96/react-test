@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-test/static/css/main.2a76cc1b.chunk.css",
+    "main.css": "/react-test/static/css/main.43f11f98.chunk.css",
     "main.js": "/react-test/static/js/main.149f738e.chunk.js",
     "main.js.map": "/react-test/static/js/main.149f738e.chunk.js.map",
     "runtime-main.js": "/react-test/static/js/runtime-main.011e1daf.js",
@@ -9,20 +9,21 @@
     "static/js/2.e276eca7.chunk.js": "/react-test/static/js/2.e276eca7.chunk.js",
     "static/js/2.e276eca7.chunk.js.map": "/react-test/static/js/2.e276eca7.chunk.js.map",
     "index.html": "/react-test/index.html",
-    "precache-manifest.6ad84b516c6c1f7fdc942cfdedecd2c9.js": "/react-test/precache-manifest.6ad84b516c6c1f7fdc942cfdedecd2c9.js",
+    "precache-manifest.3ea976e017d4019b67ae388a24c8826e.js": "/react-test/precache-manifest.3ea976e017d4019b67ae388a24c8826e.js",
     "service-worker.js": "/react-test/service-worker.js",
     "static/css/2.72345ca2.chunk.css.map": "/react-test/static/css/2.72345ca2.chunk.css.map",
-    "static/css/main.2a76cc1b.chunk.css.map": "/react-test/static/css/main.2a76cc1b.chunk.css.map",
+    "static/css/main.43f11f98.chunk.css.map": "/react-test/static/css/main.43f11f98.chunk.css.map",
     "static/js/2.e276eca7.chunk.js.LICENSE.txt": "/react-test/static/js/2.e276eca7.chunk.js.LICENSE.txt",
     "static/media/ChurchCartoon.jpg": "/react-test/static/media/ChurchCartoon.0d252093.jpg",
     "static/media/LogoTest.png": "/react-test/static/media/LogoTest.097b7749.png",
-    "static/media/Reception-Test.jpeg": "/react-test/static/media/Reception-Test.c7b32cb8.jpeg"
+    "static/media/Reception-Test.jpeg": "/react-test/static/media/Reception-Test.c7b32cb8.jpeg",
+    "static/media/App.css": "/react-test/static/media/blurry.898ecda2.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.011e1daf.js",
     "static/css/2.72345ca2.chunk.css",
     "static/js/2.e276eca7.chunk.js",
-    "static/css/main.2a76cc1b.chunk.css",
+    "static/css/main.43f11f98.chunk.css",
     "static/js/main.149f738e.chunk.js"
   ]
 }
